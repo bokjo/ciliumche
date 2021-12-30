@@ -1,0 +1,10 @@
+server
+Error: Project ID must be specified in the configuration
+server
+at initConfigMetadata (/usr/src/app/node_modules/@google-cloud/profiler/build/src/index.js:120:15)
+server
+at processTicksAndRejections (node:internal/process/task_queues:96:5)
+server
+at async createProfiler (/usr/src/app/node_modules/@google-cloud/profiler/build/src/index.js:158:26)
+server
+at async Object.start (/usr/src/app/node_modules/@google-cloud/profiler/build/src/index.js:182:22)

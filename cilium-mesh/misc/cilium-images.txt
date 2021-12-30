@@ -1,0 +1,2 @@
+cilium: quay.io/cilium/cilium-service-mesh:v1.11.0-beta.1
+operator: quay.io/cilium/operator-generic-service-mesh:v1.11.0-beta.1
